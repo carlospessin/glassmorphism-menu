@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="src/images/galssmorphism.gif">
+  <img src="src/images/preview.png">
 </p>
 
 ---
